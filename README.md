@@ -2,14 +2,15 @@
 3D game inspired by Miniclip's Bloxorzbrick using OpenGl 3.3
 
 
-Go to GLFW folder and 
-1.To comple code:
+Go to GLFW folder and
+
+1.To compile the code:
 
  ```
  make
  ```
 
-2.To start the game, 
+2.To start the game 
    ```
    ./sample2D
    ```
